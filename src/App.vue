@@ -101,7 +101,8 @@
 									<h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Contact Me</h1>
 								</div>
 								<div class="lg:w-1/2 md:w-2/3 mx-auto">
-									<form name="contact" method="POST" data-netlify="true" class="flex flex-wrap -m-2">
+									<form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" class="flex flex-wrap -m-2">
+										<input type="hidden" name="form-name" value="contact" />
 										<div class="p-2 w-1/2">
 											<div class="relative">
 												<label for="name" class="leading-7 text-sm text-gray-600">Name</label>
