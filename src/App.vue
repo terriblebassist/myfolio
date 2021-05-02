@@ -31,11 +31,11 @@
 				<h2 class="text-5xl font-semibold text-gray-800">Hi, I'm <span class="bg-indigo-600 text-white rounded px-1">Abhinav</span></h2>
 				<p class="text-gray-600 mt-4">Software Developer • Pianist • Bassist • Trekking Enthusiast</p>
 				<div class="flex justify-center h-72 w-72 items-center mx-auto my-6">
-					<img class="object-fill rounded-full" src="./assets/profile.jpg" >
+					<img class="object-fill rounded-full" src="./assets/profile.jpeg" >
 				</div>
 			</div>
 		</section>
-		
+
 		<section class="bg-gray-800 pattern py-20">
 			<div class="max-w-5xl px-6 mx-auto text-center">
 				<h2 class="text-2xl font-semibold text-white">Projects</h2>
