@@ -34,8 +34,8 @@
 				</div>
 			</div>
 		</header>
-		<section class="bg-white mt-20">
-			<div class="max-w-2xl px-6 text-center mx-auto">
+		<section class="bg-white mt-20 home">
+			<div class="max-w-2xl px-6 text-center mx-auto py-8">
 				<h2 class="text-5xl font-semibold text-gray-800">Hi, I'm 
 					<span class="bg-indigo-600 text-white rounded px-1">Abhinav</span>
 				</h2>
@@ -45,12 +45,12 @@
 					</div>
 				</div>
 			</section>
-			<section class="bg-gray-800 pattern py-20">
+			<section class="bg-gray-800 pattern py-20 mt-20">
 				<div class="max-w-5xl px-6 mx-auto text-center">
-					<h2 class="text-2xl font-semibold text-white">Projects</h2>
+					<h2 class="text-2xl font-semibold text-white project-t">Projects</h2>
 					<div class="flex items-center justify-center mt-10">
 						<div class="grid grid-cols-1 gap-6 sm:grid-cols-3 lg:grid-cols-3">
-							<div class="max-w-xs w-full">
+							<div class="max-w-xs w-full project-l">
 								<div class="flex items-center justify-center h-48 w-72 bg-white border-b-8 border-teal-400 rounded-3xl overflow-hidden">
 									<img class="object-cover h-50" src="./assets/navseeker.png" alt="">
 									</div>
@@ -61,7 +61,7 @@
 										</div>
 									</a>
 								</div>
-								<div class="max-w-xs w-full">
+								<div class="max-w-xs w-full project-b">
 									<div class="flex items-center justify-center h-48 w-72 bg-white border-b-8 border-teal-400 rounded-3xl overflow-hidden">
 										<img class="object-cover h-50" src="./assets/investscape.png" alt="">
 										</div>
@@ -72,7 +72,7 @@
 											</div>
 										</a>
 									</div>
-									<div class="max-w-xs w-full">
+									<div class="max-w-xs w-full project-r">
 										<div class="flex items-center justify-center h-48 w-72 bg-white border-b-8 border-teal-400 rounded-3xl overflow-hidden">
 											<img class="object-cover h-50" src="./assets/simplefolio.png" alt="">
 											</div>
@@ -85,7 +85,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="flex items-center justify-center mt-12">
+								<div class="flex items-center justify-center mt-12 project-b">
 									<a class="flex items-center text-white hover:underline hover:text-gray-200" href="https://github.com/terriblebassist" target="_blank" rel="noopener noreferrer">
 										<span>View More On Github</span>
 										<svg class="h-5 w-5 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -95,7 +95,7 @@
 								</div>
 							</div>
 						</section>
-						<section class="text-gray-600 body-font relative">
+						<section class="text-gray-600 body-font relative contact-wrapper">
 							<div class="container px-5 py-24 mx-auto">
 								<div class="flex flex-col text-center w-full mb-12">
 									<h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Contact Me</h1>
