@@ -7,7 +7,6 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "prerender-spa-plugin": "^3.4.0",
     "vue": "^3.0.5"
   },
   "devDependencies": {
