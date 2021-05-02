@@ -13,13 +13,13 @@
 					</div>
 					<div class="flex items-center -mx-2">
 						<a class="flex items-center mx-2 text-gray-800 hover:text-indigo-600" href="https://github.com/terriblebassist/resume/releases/latest/download/CV_ABHINAV_SINGH.pdf" target="_blank" rel="noopener noreferrer">
-							<svg class="h-5 w-5 sm:h-6 sm:w-6"
+							<svg class="h-5 w-5 sm:h-6 sm:w-6 fill-current"
 								xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill-rule="evenodd" clip-rule="evenodd">
 								<path d="M22 0h-20v24h14l6-6v-18zm-6 18h4.36l-4.36 4.385v-4.385zm-3 1h-8v1h8v-1zm0-3h-8v1h8v-1zm6-2v-1h-14v1h14zm-7.059-4.968c-1.147-.265-2.214-.497-1.697-1.473 1.573-2.97.417-4.559-1.244-4.559-1.694 0-2.821 1.65-1.244 4.559.532.982-.575 1.214-1.697 1.473-1.024.237-1.062.745-1.059 1.635l.001.333h7.997l.001-.323c.004-.896-.03-1.407-1.058-1.645zm7.059.968h-4v1h4v-1zm0-2v-1h-4v1h4zm0-4h-4v1h4v-1z" />
 							</svg>
 						</a>
 						<a class="flex items-center mx-2 text-gray-800 hover:text-indigo-600" href="https://www.linkedin.com/in/abhinavsingh1996/" target="_blank" rel="noopener noreferrer">
-							<svg class="h-5 w-5 sm:h-6 sm:w-6"
+							<svg class="h-5 w-5 sm:h-6 sm:w-6 fill-current"
 								xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
 								<path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
 							</svg>
