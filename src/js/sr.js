@@ -11,7 +11,7 @@ export default function () {
     ScrollReveal().reveal('.home',
         assignProps(
             {
-                delay: 300, distance: '0px',
+                delay: 500,
                 origin: 'bottom'
             }, defaultProps)
     );
