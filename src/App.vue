@@ -5,7 +5,7 @@
 				<div class="flex items-center justify-between">
 					<div>
 						<a class="flex items-center text-gray-800 hover:text-indigo-600" href="#">
-							<object class="h-6 w-6 sm:h-6 sm:w-6" type="image/svg+xml" data="./src/assets/logo.svg"></object>
+							<object class="h-6 w-6 sm:h-6 sm:w-6" type="image/svg+xml" data="./assets/logo.svg"></object>
 							<span class="mx-3 font-medium text-sm md:text-base">Abhinav Singh</span>
 
 						</a>
