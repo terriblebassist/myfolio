@@ -8,6 +8,14 @@ export default function () {
         mobile: true
     };
 
+    ScrollReveal().reveal('.header',
+        assignProps(
+            {
+                delay: 500,
+                origin: 'top'
+            }, defaultProps)
+    );
+
     ScrollReveal().reveal('.home',
         assignProps(
             {
@@ -44,7 +52,7 @@ export default function () {
         assignProps(
             {
                 delay: 500,
-                origin: window.innerWidth > 768 ? 'bottom' : 'bottom'
+                origin: 'bottom'
             }, defaultProps)
     );
 
