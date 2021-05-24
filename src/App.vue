@@ -76,7 +76,7 @@
                         </svg>
                     </a>
                 </span>
-                <div class="flex justify-center h-72 w-72 items-center mx-auto my-6">
+                <div class="flex justify-center h-72 w-72 items-center mx-auto my-6 home">
                     <img class="object-fill rounded-full" src="./assets/profile.jpeg" />
                 </div>
             </div>
@@ -94,15 +94,15 @@
                                 href="https://nodeseeker.herokuapp.com/playground"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                class="block bg-gray-700 mt-5 rounded-md overflow-hidden transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
+                                class="block bg-gray-700 mt-5 w-72 rounded-md overflow-hidden transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
                             >
-                                <div class="py-2 px-3 text-center text-sm">
+                                <div class="py-1 px-2 text-center text-sm">
                                     <p class="text-lightgreen">GraphQL/REST API for fetching NAV of mutual funds, written using ExpressJS.</p>
                                     <span class="block text-gray-500 mt-2 hover:text-lightgreen">View Deployment</span>
                                 </div>
                             </a>
                         </div>
-                        <div class="max-w-xs w-full project-b">
+                        <div class="max-w-xs w-full project-t">
                             <div class="flex items-center justify-center h-48 w-72 bg-white border-b-8 border-teal-400 rounded-3xl overflow-hidden">
                                 <img class="object-cover h-36" src="./assets/investscape.png" alt="" />
                             </div>
@@ -110,9 +110,9 @@
                                 href="https://investscape-dash-int.herokuapp.com"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                class="block bg-gray-700 mt-5 rounded-md overflow-hidden transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
+                                class="block bg-gray-700 mt-5 w-72 rounded-md overflow-hidden transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
                             >
-                                <div class="py-2 px-3 text-center text-sm">
+                                <div class="py-1 px-2 text-center text-sm">
                                     <p class="text-lightgreen">Dashboard to track mutual fund investments, designed using python dash.</p>
                                     <span class="block text-gray-500 mt-2 hover:text-lightgreen">View Deployment</span>
                                 </div>
@@ -122,8 +122,8 @@
                             <div class="flex items-center justify-center h-48 w-72 bg-white border-b-8 border-teal-400 rounded-3xl overflow-hidden">
                                 <img class="object-cover h-36" src="./assets/myfolio.png" alt="" />
                             </div>
-                            <a href="#" class="block bg-gray-700 mt-5 rounded-md overflow-hidden transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                                <div class="py-2 px-3 text-center text-sm">
+                            <a href="#" class="block bg-gray-700 mt-5 w-72 rounded-md overflow-hidden transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                                <div class="py-1 px-2 text-center text-sm">
                                     <p class="text-lightgreen">Basic portfolio website, designed using Tailwind CSS.</p>
                                     <span class="block text-gray-500 mt-2 hover:text-lightgreen">View Deployment</span>
                                 </div>
@@ -133,7 +133,7 @@
                 </div>
                 <div class="flex items-center justify-center mt-10">
                     <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-2">
-                        <div class="max-w-xs w-full project-l">
+                        <div class="max-w-xs w-full project-b">
                             <div class="flex items-center justify-center h-48 w-72 bg-white border-b-8 border-teal-400 rounded-3xl overflow-hidden">
                                 <img class="object-cover h-36" src="./assets/navseeker.png" alt="" />
                             </div>
@@ -141,9 +141,9 @@
                                 href="https://navseeker-prod.herokuapp.com"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                class="block bg-gray-700 mt-5 rounded-md overflow-hidden transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
+                                class="block bg-gray-700 mt-5 w-72 rounded-md overflow-hidden transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
                             >
-                                <div class="py-2 px-3 text-center text-sm">
+                                <div class="py-1 px-2 text-center text-sm">
                                     <p class="text-lightgreen">Spring boot app which fetches latest/historic NAV of a mutual fund.</p>
                                     <span class="block text-gray-500 mt-2 hover:text-lightgreen">View Deployment</span>
                                 </div>
@@ -157,9 +157,9 @@
                                 href="https://github.com/terriblebassist/resume/releases/latest"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                class="block bg-gray-700 mt-5 rounded-md overflow-hidden transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
+                                class="block bg-gray-700 mt-5 w-72 rounded-md overflow-hidden transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
                             >
-                                <div class="py-2 px-3 text-center text-sm">
+                                <div class="py-1 px-2 text-center text-sm">
                                     <p class="text-lightgreen">LaTeX CV, with releases generated using Github Actions.</p>
                                     <span class="block text-gray-500 mt-2 hover:text-lightgreen">View Deployment</span>
                                 </div>
