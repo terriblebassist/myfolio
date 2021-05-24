@@ -88,16 +88,16 @@
                     <div class="grid grid-cols-1 gap-6 sm:grid-cols-3 lg:grid-cols-3">
                         <div class="max-w-xs w-full project-l">
                             <div class="flex items-center justify-center h-48 w-72 bg-white border-b-8 border-teal-400 rounded-3xl overflow-hidden">
-                                <img class="object-cover h-36" src="./assets/navseeker.png" alt="" />
+                                <img class="object-cover h-36" src="./assets/nodeseeker.png" alt="" />
                             </div>
                             <a
-                                href="https://navseeker-prod.herokuapp.com"
+                                href="https://nodeseeker.herokuapp.com/playground"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 class="block bg-gray-700 mt-5 rounded-md overflow-hidden transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
                             >
                                 <div class="py-2 px-3 text-center text-sm">
-                                    <p class="text-lightgreen">Spring boot app which fetches latest/historic NAV of a mutual fund.</p>
+                                    <p class="text-lightgreen">GraphQL/REST API for fetching NAV of mutual funds, written using ExpressJS.</p>
                                     <span class="block text-gray-500 mt-2 hover:text-lightgreen">View Deployment</span>
                                 </div>
                             </a>
@@ -131,9 +131,45 @@
                         </div>
                     </div>
                 </div>
+                <div class="flex items-center justify-center mt-10">
+                    <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-2">
+                        <div class="max-w-xs w-full project-l">
+                            <div class="flex items-center justify-center h-48 w-72 bg-white border-b-8 border-teal-400 rounded-3xl overflow-hidden">
+                                <img class="object-cover h-36" src="./assets/navseeker.png" alt="" />
+                            </div>
+                            <a
+                                href="https://navseeker-prod.herokuapp.com"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                class="block bg-gray-700 mt-5 rounded-md overflow-hidden transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
+                            >
+                                <div class="py-2 px-3 text-center text-sm">
+                                    <p class="text-lightgreen">Spring boot app which fetches latest/historic NAV of a mutual fund.</p>
+                                    <span class="block text-gray-500 mt-2 hover:text-lightgreen">View Deployment</span>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="max-w-xs w-full project-b">
+                            <div class="flex items-center justify-center h-48 w-72 bg-white border-b-8 border-teal-400 rounded-3xl overflow-hidden">
+                                <img class="object-cover h-36" src="./assets/latexcv.png" alt="" />
+                            </div>
+                            <a
+                                href="https://github.com/terriblebassist/resume/releases/latest"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                class="block bg-gray-700 mt-5 rounded-md overflow-hidden transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
+                            >
+                                <div class="py-2 px-3 text-center text-sm">
+                                    <p class="text-lightgreen">LaTeX CV, with releases generated using Github Actions.</p>
+                                    <span class="block text-gray-500 mt-2 hover:text-lightgreen">View Deployment</span>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
                 <div class="flex items-center justify-center mt-12 project-b">
                     <a class="flex items-center text-white hover:underline hover:text-lightgreen" href="https://github.com/terriblebassist" target="_blank" rel="noopener noreferrer">
-                        <span>View More On Github</span>
+                        <span>View Source On Github</span>
                         <svg class="h-5 w-5 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
                         </svg>
