@@ -12,7 +12,7 @@
                     <div class="flex items-center -mx-2">
                         <a
                             class="flex items-center mx-2 text-white hover:text-lightgreen transition duration-500 ease-in-out transform hover:scale-110"
-                            href="https://github.com/terriblebassist/resume/releases/latest/download/CV_ABHINAV_SINGH.pdf"
+                            href="https://raw.githubusercontent.com/terriblebassist/resume/blobs/CV_ABHINAV_SINGH.pdf"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
